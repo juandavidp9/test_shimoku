@@ -75,7 +75,7 @@ python app.py
 
 ## Process the Data (Feature Engineering)
 
-To Transform the Raw Data into a dataset that will guarantee the best results when we
+Transform the Raw Data into a dataset that will guarantee good results when we
 train the classification algorithm. The output dataset will be stored into the data_output folder
 
 ```
