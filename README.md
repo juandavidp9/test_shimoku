@@ -1,6 +1,6 @@
 # Test Shimoku App
 
-Simple Data App created with [Shimoku SDK]([https://www.ejemplo.com](https://github.com/shimoku-tech/shimoku-api-python)) 
+Simple Data App created with [Shimoku SDK](https://www.ejemplo.com](https://github.com/shimoku-tech/shimoku-api-python)
 
 App avalaibable here https://shimoku.io/e0ec6c2b-3f70-47b6-b136-9c49545062e1/
 
