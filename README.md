@@ -10,14 +10,6 @@ App available at [Link](https://shimoku.io/e0ec6c2b-3f70-47b6-b136-9c49545062e1/
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Python 3.x installed on your system. You can download it from python.org.
-
-- pip (Python Package Installer), should come installed with Python.
-
 ## Installation
 
 Follow these steps to set up the project locally.
@@ -73,10 +65,28 @@ UNIVERSE_ID=""
 WORKSPACE_ID=""
 ```
 
-
 ## Running the Application
 
 Once the installation is done, and environment variables are set, you can run the application:
 
 ```
 python app.py
+```
+
+## Process the Data (Feature Engineering)
+
+To Transform the Raw Data into a dataset that will guarantee the best results when we
+train the classification algorithm. The output dataset will be stored into the data_output folder
+
+```
+python process.py
+```
+
+## Train the Random Forest  Algorithm 
+
+To train the model and generate a test dataset with predictions stored in the data_otuput folder
+It will also save the model as a binary pickle file in the models_binary folder.
+
+```
+python train.py
+```
