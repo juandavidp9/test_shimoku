@@ -2,7 +2,7 @@
 
 Simple Data App created with Shimoku SDK: https://github.com/shimoku-tech/shimoku-api-python
 
-(https://drive.google.com/file/d/1vUjMqwAEA3g7lpkjYQXcH2mQys6UKPaQ/)
+([Test app](https://drive.google.com/uc?id=1vUjMqwAEA3g7lpkjYQXcH2mQys6UKPaQ))
 
 ## Getting Started
 
