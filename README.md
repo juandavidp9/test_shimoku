@@ -6,6 +6,10 @@ App available at [Link](https://shimoku.io/e0ec6c2b-3f70-47b6-b136-9c49545062e1/
 
 ![Test app](https://drive.google.com/uc?id=1vUjMqwAEA3g7lpkjYQXcH2mQys6UKPaQ)
 
+The process to solve the test is described in the image bellow:
+
+![Overview ](https://drive.google.com/uc?id=1GZYPMXS811N06-XiH1nWPurFLyRLXbGR) 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
